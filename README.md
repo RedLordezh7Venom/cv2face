@@ -1,2 +1,2 @@
-xddf# cv2face
+# cv2face
 facedetection with haarcascades + optimization
